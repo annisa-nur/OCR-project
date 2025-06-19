@@ -12,7 +12,7 @@ Below is a more detailed view of the architecture:
 
 ### Image
 
-![Image](ocr_architecture.png)
+![Image description](ocr_architecture.png)
 
 
 ## Key Features
